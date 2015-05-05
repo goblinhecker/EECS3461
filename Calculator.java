@@ -7,8 +7,6 @@ import javax.swing.KeyStroke;
 
 /**
  * 
- * @author  SANI PATEL, CSE 23229
- * 			210875060
  */
 public class Calculator extends javax.swing.JFrame {
 
