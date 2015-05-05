@@ -42,13 +42,7 @@ import javax.swing.plaf.*;
 import javax.swing.plaf.basic.*;
 
 /**
- * 
- * @author Sani Patel, CSE23229
- * 
- * 
- *         FOR TA:
- * 
- *         In my code, we use PaintPanel class as a replacement for Canvas class
+ * 		In my code, we use PaintPanel class as a replacement for Canvas class
  *         to draw our lines/ shapes. I realize that this class has many
  *         limitations. I have tried to implement it correctly but the following
  *         issues still exist:
